@@ -1,0 +1,13 @@
+{
+  "categories": [
+    "ASIC & FPGA",
+    "Edge AI & Software"
+  ],
+  "tags": [
+    "fpga",
+    "ibex",
+    "systemverilog",
+    "verible",
+    "ci"
+  ]
+}
